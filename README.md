@@ -1,6 +1,4 @@
-# Lab5-07: Create Satellite Program (Step 8 — Answer)
-
-Reference firmware for Lab5-06: HK downlink, battery-aware 3.3 V switching, and uplink command handling with accelerometer and gyroscope responses implemented.
+# Lab6_satellite_integration_program
 
 ## Web Serial Monitor
 
@@ -17,4 +15,4 @@ Open in **Chrome or Edge**, then **Add Port** → **Connect** (38400 baud):
 
 ## Firmware
 
-Open `Lab5-07_create_satellite_program_step8_A.ino` in the Arduino IDE and upload to your board. For library and submodule setup, see [src/README.md](src/README.md).
+Open `Lab6_satellite_integration_program.ino` in the Arduino IDE and upload to your board. For library and submodule setup, see [src/README.md](src/README.md).
