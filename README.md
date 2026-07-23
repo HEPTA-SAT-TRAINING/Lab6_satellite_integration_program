@@ -4,7 +4,7 @@
 
 Open in **Chrome or Edge**, then **Add Port** → **Connect** (38400 baud):
 
-**https://hepta-sat-training.github.io/hepta-serial-viewer/**
+[https://hepta-sat-training.github.io/HEPTA-SAT-Serial_Monitor/](https://hepta-sat-training.github.io/HEPTA-SAT-Serial_Monitor/)
 
 - HK lines appear every second in the output pane.
 - `a` — prints `Hello HEPTA-SAT` ten times (1 s apart).
@@ -12,6 +12,8 @@ Open in **Chrome or Edge**, then **Add Port** → **Connect** (38400 baud):
 - `c` — downlinks 10 accelerometer samples (1 s apart).
 - `d` — downlinks 10 gyroscope samples (1 s apart).
 - `e` — optional extension (not implemented in this answer sketch).
+
+
 
 ## Firmware
 
